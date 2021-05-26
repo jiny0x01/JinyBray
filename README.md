@@ -9,4 +9,4 @@ Destiny Guardians discord bot
 - [ ] Buy mods
 
 ## Architecture
-[JinyBray_architecture](./img/architecture.png)
+![JinyBray Architecture](./img/architecture.png)
