@@ -7,3 +7,6 @@ Destiny Guardians discord bot
 - [ ] Show daily weapon mods which Venssi-44 bring
 - [ ] Subscribe mods
 - [ ] Buy mods
+
+## Architecture
+[JinyBray_architecture](./img/architecture.png)
